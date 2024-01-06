@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/saicharan-gouru/Restful-CRUD-API-with-Node.js-Express-and-MongoDB/issues"
     },
-    "homepage": "https://github.com/saicharan-gouru/Restful-CRUD-API-with-Node.js-Express-and-MongoDB#readme"
+    "homepage": "https://github.com/saicharan-gouru/Restful-CRUD-API-with-Node.js-Express-and-MongoDB#readme",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
 }
